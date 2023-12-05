@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var sliding = false;
 
 
-  // GSAP Delay 
+  // GSAP Delay
   var timeoutId;
   var animationStatus = false;
 
